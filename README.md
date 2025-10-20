@@ -30,3 +30,5 @@ Objective
 To empower healthcare administrators and analysts with real-time visibility into organizational performance, enabling data-backed decision making that enhances care delivery and operational excellence.
 
 Screenshot link: https://github.com/SurajVish-pixel/Healthcare-dashboard/blob/main/Screenshot%202025-10-20%20221631.png
+
+Dashboard link: https://github.com/SurajVish-pixel/Healthcare-dashboard/blob/main/healthcare%20Dashboard.pbit
